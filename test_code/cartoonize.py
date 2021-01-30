@@ -1,3 +1,5 @@
+%tensorflow_version 1.x
+
 import os
 import cv2
 import numpy as np
